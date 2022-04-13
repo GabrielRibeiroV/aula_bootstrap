@@ -1,0 +1,8 @@
+.first-cont{
+    padding-left: 0;
+}
+#main-content{
+    max-width: 1920px;
+    max-height: 1080px;
+    background-image: url(img/teste.png) ;
+}
