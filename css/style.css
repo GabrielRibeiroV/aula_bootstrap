@@ -1,8 +1,26 @@
 .first-cont{
+    
     padding-left: 0;
-}
-#main-content{
     max-width: 1920px;
-    max-height: 1080px;
-    background-image: url(img/teste.png) ;
+    
+    
+}
+#main-content {
+    background-color: gainsboro;
+    
+}
+#overview{
+    background-color: gainsboro;
+}
+
+
+.page-header{
+    text-align: center;
+    
+}
+.parceiros{
+    background-color: gainsboro;
+}
+.margin{
+    padding: 50px;
 }
